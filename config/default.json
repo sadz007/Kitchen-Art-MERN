@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://saaddev:Bigboy2022!!@kitchenart.9lbvv9a.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretkey"
+}

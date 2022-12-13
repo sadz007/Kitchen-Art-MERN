@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdd92b31.css",
+    "main.js": "/static/js/main.45dc510a.js",
+    "static/media/sort.jpg": "/static/media/sort.ec7080bb9a4dca0ca01d.jpg",
+    "static/media/cook.jpg": "/static/media/cook.2cfdd4ec35c55c488845.jpg",
+    "static/media/background.jpg": "/static/media/background.d7e2f2a866fa8e667f9d.jpg",
+    "static/media/applepie.jpg": "/static/media/applepie.e1640fd2856313497c65.jpg",
+    "static/media/spice.jpg": "/static/media/spice.5af249da2413dbac80cb.jpg",
+    "static/media/chef1.jpg": "/static/media/chef1.581b3a9f9fce81793a69.jpg",
+    "static/media/bake.jpg": "/static/media/bake.a1eb24a0e8154dc14249.jpg",
+    "static/media/sweet.jpg": "/static/media/sweet.d4c3f82dc4c1f70b4163.jpg",
+    "static/media/chef.jpeg": "/static/media/chef.0f0f0cf11dac35877ca0.jpeg",
+    "index.html": "/index.html",
+    "main.bdd92b31.css.map": "/static/css/main.bdd92b31.css.map",
+    "main.45dc510a.js.map": "/static/js/main.45dc510a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd92b31.css",
+    "static/js/main.45dc510a.js"
+  ]
+}

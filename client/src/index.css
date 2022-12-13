@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    li{
+        @apply p-4
+    }
+
+    button {
+        @apply
+        bg-yellow-500 hover:bg-yellow-600 text-black
+        font-semibold hover:text-zinc-200 py-2 px-4 
+        border-2 border-black hover:border-zinc-400 rounded-b-xl
+        shadow-lg
+    }
+    form{
+        @apply md:container px-52 pt-44 bg-blend-hard-light w-full 
+        
+
+    }    
+    
+    input,select,textarea{
+        @apply mt-1 w-full px-4 py-2 text-2xl bg-white border border-slate-300
+        rounded-md shadow-md
+        focus:outline-none focus:border-sky-300 focus:ring-1
+        focus:bg-sky-100 invalid:border-red-500 invalid:border-4
+    }
+
+}
+
+@layer components {
+  .card {
+    padding-top: theme('padding.56');
+    padding-left: theme('padding.20');
+    background-color: theme('colors.white');
+    border-radius: theme('borderRadius.xl');
+    box-shadow: theme('boxShadow.2xl');
+    width: theme('width.full');
+  }
+  }
